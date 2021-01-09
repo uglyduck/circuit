@@ -8,3 +8,5 @@ I still did not get a chance to learn how to automatically call functions that a
 I have to Google a lot,  and the moment the job is done, 
 #I forget. :(
 
+Mama apni kemon achen?
+
